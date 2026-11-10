@@ -2,3 +2,5 @@
 *.log
 logs/
 .venv/
+.env.staging
+.env.deploy
